@@ -3,8 +3,16 @@
 In the fourth task, I worked on a classification problem using the "Hand Gesture Recognition Database" from Kaggle. 
 This database consisted of hand gestures performed by 10 different subjects, with each subject performing 10 different gestures.
 
+<p align="center">
+  <img src="https://github.com/Stevenwaheed/PRODIGY_ML_04/assets/83607748/aa7a52c2-8935-4137-9d97-caa85e5631f7">
+</p>
+
 To solve the classification problem, I built a neural network using TensorFlow. The neural network architecture included 7 hidden layers, and you utilized the "relu" activation function. 
 For optimization, you employed the "Adam" optimizer, which is a popular choice for training deep neural networks.
+
+<p align="center">
+  <img src="https://github.com/Stevenwaheed/PRODIGY_ML_04/assets/83607748/9d62e84d-314c-4c1d-97fd-65dd54ed1258">
+</p>
 
 During the training phase, I selected a batch size of 50 and trained the model for 30 epochs. 
 The training accuracy achieved was 100%, meaning that the model correctly classified all the training examples. 
