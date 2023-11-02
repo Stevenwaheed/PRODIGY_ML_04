@@ -14,6 +14,7 @@ For optimization, you employed the "Adam" optimizer, which is a popular choice f
   <img src="https://github.com/Stevenwaheed/PRODIGY_ML_04/assets/83607748/9d62e84d-314c-4c1d-97fd-65dd54ed1258">
 </p>
 
+
 During the training phase, I selected a batch size of 50 and trained the model for 30 epochs. 
 The training accuracy achieved was 100%, meaning that the model correctly classified all the training examples. 
 The loss value obtained was 1.0681e-07, indicating that the model's predictions were very close to the actual labels during training.
