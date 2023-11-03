@@ -4,7 +4,7 @@ In the fourth task, I worked on a classification problem using the "Hand Gesture
 This database consisted of hand gestures performed by 10 different subjects, with each subject performing 10 different gestures.
 
 <p align="center">
-  <img src="https://github.com/Stevenwaheed/PRODIGY_ML_04/assets/83607748/aa7a52c2-8935-4137-9d97-caa85e5631f7">
+  <img width="500" height="500" src="https://github.com/Stevenwaheed/PRODIGY_ML_04/assets/83607748/aa7a52c2-8935-4137-9d97-caa85e5631f7">
 </p>
 
 To solve the classification problem, I built a neural network using TensorFlow. The neural network architecture included 7 hidden layers, and you utilized the "relu" activation function. 
